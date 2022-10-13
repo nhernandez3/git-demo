@@ -5,7 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
-
+- [Nina Hernandez](https://github.com/nhernandez3)
 
 
 ## Spring 2022
@@ -43,5 +43,4 @@ to demonstrate how to use git and GitHub
 - [Aushanae Haller](https://github.com/ajhaller)
 - [Tess Goldmann](https://github.com/tessgold)
 - [Silas Weden](https://github.com/silasweden)
-- [Nina Hernandez](https://github.com/nhernandez3)
 
